@@ -1,0 +1,17 @@
+m1n1 (1.2.9-1) experimental; urgency=medium
+
+  * Bump to m1n1 1.2.9
+
+ -- Remi <rem@remisca.fr>  Tue, 06 Jun 2023 18:04:00 +0000
+
+m1n1 (1.2.8-2) experimental; urgency=medium
+
+  * RELEASE mode
+
+ -- Remi <rem@remisca.fr>  Mon, 29 May 2023 07:11:00 +0000
+
+m1n1 (1.2.8-1) experimental; urgency=medium
+
+  * Initial packaging
+
+ -- Remi <rem@remisca.fr>  Mon, 29 May 2023 07:11:00 +0000

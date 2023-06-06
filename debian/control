@@ -1,0 +1,12 @@
+Source: m1n1
+Section: base
+Priority: optional
+Maintainer: Personal <remi@remisca.fr>
+Build-Depends: debhelper-compat (= 13),
+               pkgconf
+
+Package: m1n1
+Architecture: arm64
+Description: Apple silicon boot loader
+ Next to m1n1 this also contains the device trees and u-boot.
+
