@@ -1,5 +1,5 @@
 Source: m1n1
-Section: utils
+Section: admin
 Priority: optional
 Maintainer: Personal <remi@remisca.fr>
 Build-Depends: debhelper-compat (= 13),
